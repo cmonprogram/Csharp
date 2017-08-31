@@ -1,0 +1,2 @@
+csc neiro.cs
+pause 

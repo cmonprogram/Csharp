@@ -1,0 +1,2 @@
+csc file.cs
+pause 

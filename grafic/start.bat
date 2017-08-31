@@ -1,0 +1,2 @@
+csc grafic.cs
+pause 
