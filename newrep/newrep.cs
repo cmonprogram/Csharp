@@ -13,7 +13,9 @@ using System;
  this.num = num;
  this.step = step;
  }
- public void work(){}
+ public void work(){
+ Console.WriteLine("hello world");
+}
  }
 
 }
