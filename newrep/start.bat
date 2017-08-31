@@ -1,0 +1,2 @@
+csc newrep.cs 
+pause 
